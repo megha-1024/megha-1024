@@ -46,23 +46,27 @@ I enjoy solving real-world problems using Data Analytics, Machine Learning, and 
 
 ### Programming Languages
 
-Python SQL
+Python, SQL
+
+## Libraries
+
+Pandas, NumPy
 
 ### Data Analytics
 
-Excel • Power BI • Tableau • Statistics
+Excel, Power BI, Tableau, Statistics, Data Cleaning, EDA, Dashboard Development
 
 ### Machine Learning
 
-Scikit-Learn  • XGBoost 
+Scikit-Learn, Model Evaluation, Feature Engineering
 
-### Data Science
+### Visualization Libraries
 
-Pandas • NumPy • Matplotlib • Seaborn • Plotly
+Matplotlib, Seaborn, Plotly
 
 ### NLP
 
-NLTK • VADER • Sentence-BERT • Hugging Face
+NLTK, VADER, Sentence-BERT, Hugging Face
 
 ### Databases
 
@@ -75,18 +79,6 @@ Streamlit
 ### Tools
 
 Git • GitHub • VS Code • Jupyter Notebook • Google Colab
-
-### Other
-
-Data Cleaning
-
-EDA
-
-Feature Engineering
-
-Model Evaluation
-
-Dashboard Development
 
 ## 📂 Featured Projects
 

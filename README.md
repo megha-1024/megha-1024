@@ -1,7 +1,7 @@
-<h1 align="center">Hi!, I'm Megha Shinde</h1>
+<h1 align="center" color="Blue">Hi!, I'm Megha Shinde</h1>
 
 <h3 align="center">
-AI & Data Science Graduate | Data Analyst | Machine Learning Enthusiast
+AI & Data Science Graduate | Data Analyst | Data Science
 </h3>
 
 <p align="center">
@@ -11,19 +11,17 @@ I enjoy solving real-world problems using Data Analytics, Machine Learning, and 
 
 ## 👩‍💻 About Me
 
-🎓 Bachelor's Degree in Artificial Intelligence & Data Science
+- 🎓 Recently graduated BE in Artificial Intelligence & Data Science
 
-📊 Passionate about Data Analytics, Machine Learning, and Artificial Intelligence
+- 📊 Interested in Data Analytics and Machine Learning
 
-🐍 Strong foundation in Python, SQL, Power BI, Tableau, Excel, and Statistics
+- 💻 Skilled in Python, SQL, Power BI, Tableau, Excel
 
-📈 Experienced in data cleaning, visualization, predictive modeling, and dashboard development
+- 📈 Love solving business problems using data
 
-🤖 Interested in solving business problems using AI and data-driven decision making
+- 🌱 Currently learning Generative AI & LLMs
 
-🌱 Currently improving my skills in Advanced SQL, Machine Learning, Deep Learning, and Generative AI
-
-💼 Actively seeking opportunities as a Data Analyst, Data Scientist, or AI/ML Engineer
+- 🚀 Open to Data Analyst and AI opportunities
 
 
 ## 🚀 What I'm Currently Working On
@@ -48,7 +46,7 @@ I enjoy solving real-world problems using Data Analytics, Machine Learning, and 
 
 ### Programming Languages
 
-Python • SQL 
+Python SQL
 
 ### Data Analytics
 
@@ -56,7 +54,7 @@ Excel • Power BI • Tableau • Statistics
 
 ### Machine Learning
 
-Scikit-Learn • TensorFlow • XGBoost
+Scikit-Learn  • XGBoost 
 
 ### Data Science
 
@@ -91,3 +89,28 @@ Model Evaluation
 Dashboard Development
 
 ## 📂 Featured Projects
+
+## 🏦 Credit Risk & Loan Default Prediction
+
+Machine learning model for predicting loan default risk with interactive analytics dashboard.
+
+## 🛒 Retail Sales & Customer Analytics Platform
+
+Business intelligence platform for analyzing sales trends, customer behavior, and retail performance.
+
+## 🤖 Fake Review Detector
+
+NLP-powered system for detecting fake reviews using Sentence-BERT, XGBoost, and sentiment analysis.
+
+
+## Connections
+
+LinkedIn : http://www.linkedin.com/in/megha-shinde-7b2363377
+
+Email : meghash243@gmail.com
+
+Kaggle : https://www.kaggle.com/megha1024
+
+<h3 align="center">
+"Learning every day. Building with data."
+</h3>

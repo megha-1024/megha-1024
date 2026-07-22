@@ -42,43 +42,65 @@ I enjoy solving real-world problems using Data Analytics, Machine Learning, and 
 
 🔹 Building End-to-End Data Science Projects
 
-## 🛠 Tech Stack
+# 🚀 Tech Stack & Skills
 
-### Programming Languages
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
 
-Python, SQL
+---
 
-## Libraries
+### 📊 Data Analytics
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=excel,powerbi,tableau" />
+</p>
 
-Pandas, NumPy
+**Skills:** Statistics • Data Cleaning • Exploratory Data Analysis (EDA) • Dashboard Development
 
-### Data Analytics
+---
 
-Excel, Power BI, Tableau, Statistics, Data Cleaning, EDA, Dashboard Development
+### 🤖 Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+</p>
 
-### Machine Learning
+**Skills:** Feature Engineering • Model Evaluation • Classification • Regression • Model Deployment
 
-Scikit-Learn, Model Evaluation, Feature Engineering
+---
 
-### Visualization Libraries
+### 📚 Libraries
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,seaborn,plotly" />
+</p>
 
-Matplotlib, Seaborn, Plotly
+---
 
-### NLP
+### 🧠 Natural Language Processing
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" />
+</p>
 
-NLTK, VADER, Sentence-BERT, Hugging Face
+**Libraries:** NLTK • VADER • Sentence-BERT • Hugging Face Transformers
 
-### Databases
+---
 
-MySQL 
+### 🗄 Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-### Deployment
+---
 
-Streamlit 
+### ☁️ Deployment & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,streamlit" />
+</p>
 
-### Tools
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter,colab" />
+</p>
 
-Git • GitHub • VS Code • Jupyter Notebook • Google Colab
 
 ## 📂 Featured Projects
 
